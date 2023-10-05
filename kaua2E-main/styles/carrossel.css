@@ -57,6 +57,9 @@
     margin: 0.5em 0;
 }
 
+.descrição__imagem1{width: 40%;
+height: 50%;}
+
 .descrição__texto {
     font-size: 14px;
 }
